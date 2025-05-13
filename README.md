@@ -13,8 +13,5 @@ E-commerce responsivo para venta de Productos Artesanales, desarrollado con tecn
 
 
 ## Instalación  
-1. Clonar repositorio:  
-   ```bash
-   gh repo clone sergiokinc/Reto-Laboratorio
 # ecommece
 # ecommece
